@@ -1,0 +1,76 @@
+﻿
+/*homepage css*/
+body {
+    background-color: #000
+}
+
+.mt-3 {
+    margin-top: 1.5rem !important;
+}
+
+.container {
+    margin-top: 110px !important;
+}
+
+.card {
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 20px !important;
+    transition: transform .3s;
+}
+
+    .card:hover {
+        transform: translateY(-10px);
+        transition: transform .3s;
+    }
+
+.text1 {
+    font-size: 20px;
+    color: #0d6efd;
+}
+    
+
+.info {
+    line-height: 17px;
+}
+
+.cost span {
+    color: #fb3531;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button1 {
+    background: #000000c7;
+}
+
+    .button1:hover {
+        opacity: .8;
+    }
+
+.cursor {
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.ab {
+    background-color: #dee2e6;
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+}
+
+
+.card-title:hover {
+    transform: translateY(5px);
+    transition: transform .3s;
+    color: #0d6efd;
+}
+
+.wi {
+    height: 234px;
+}
+
+
+

@@ -1,0 +1,12 @@
+C:\Users\SHIRAF\Desktop\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\bin\ToyShopShiraf Service.dll.config
+C:\Users\SHIRAF\Desktop\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\bin\ToyShopShiraf Service.dll
+C:\Users\SHIRAF\Desktop\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\bin\ToyShopShiraf Service.pdb
+C:\Users\SHIRAF\Desktop\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\obj\Debug\ToyShopShiraf Service.csprojResolveAssemblyReference.cache
+C:\Users\SHIRAF\Desktop\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\obj\Debug\ToyShopShiraf Service.dll
+C:\Users\SHIRAF\Desktop\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\obj\Debug\ToyShopShiraf Service.pdb
+C:\Users\SHIRAF\Desktop\Desktop files & folders\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\bin\ToyShopShiraf Service.dll.config
+C:\Users\SHIRAF\Desktop\Desktop files & folders\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\bin\ToyShopShiraf Service.dll
+C:\Users\SHIRAF\Desktop\Desktop files & folders\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\bin\ToyShopShiraf Service.pdb
+C:\Users\SHIRAF\Desktop\Desktop files & folders\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\obj\Debug\ToyShopShiraf Service.csprojResolveAssemblyReference.cache
+C:\Users\SHIRAF\Desktop\Desktop files & folders\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\obj\Debug\ToyShopShiraf Service.dll
+C:\Users\SHIRAF\Desktop\Desktop files & folders\WebTassignment\ToyShopShiraf Service\ToyShopShiraf Service\obj\Debug\ToyShopShiraf Service.pdb

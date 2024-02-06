@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <Username>
+      sof20b228@uovt.ac.lk
+    </Username>
+    <Password>
+      sof20b228
+    </Password>
+    <contact>
+      0719598321
+    </contact>
+    <email>
+      sof20b228@uovt.ac.lk
+    </email>
+  </User>
+
+  <User>
+    <Username>
+      sof20b228@uovt.ac.lk
+    </Username>
+    <Password>
+      admin@123
+    </Password>
+    <contact>
+      0719598321
+    </contact>
+    <email>
+      sof20b228@uovt.ac.lk
+    </email>
+  </User>
+</Users>

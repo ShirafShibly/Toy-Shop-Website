@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Toysstore>
+  <Toys>
+    <title>
+      Audi Hot Wheels
+    </title>
+    <image>
+      IMG1.jpeg
+    </image>
+    <price>
+      LKR 10,000.00
+    </price>
+  </Toys>
+
+  <Toys>
+    <title>
+      dOvOb Motorcycle
+    </title>
+    <image>
+      IMG2.jpg
+    </image>
+    <price>
+      LKR 12,000.00
+    </price>
+  </Toys>
+  <Toys>
+    <title>
+      funko pop
+    </title>
+    <image>
+      IMG3.jpg
+    </image>
+    <price>
+      LKR 6,000.00
+    </price>
+  </Toys>
+  <Toys>
+    <title>
+      Hot Wheels Set
+    </title>
+    <image>
+      IMG4.jpg
+    </image>
+    <price>
+      LKR 4,200.00
+    </price>
+  </Toys>
+  <Toys>
+    <title>
+      Jeep Gladiator
+    </title>
+    <image>
+      IMG5.jpg
+    </image>
+    <price>
+      LKR 12,000.00
+    </price>
+  </Toys>
+  <Toys>
+    <title>
+      Jurassic Dinasaur Toys
+    </title>
+    <image>
+      IMG6.jpg
+    </image>
+    <price>
+      LKR 4,000.00
+    </price>
+  </Toys>
+  <Toys>
+    <title>
+      Military SWAT Elite
+    </title>
+   <image>
+     IMG7.jpg
+   </image>
+    <price>
+      LKR 13,250.00
+    </price>
+  </Toys>
+  <Toys>
+    <title>
+      LEGO Star Wars X-Wing
+    </title>
+    <image>
+      IMG8.jpg
+    </image>
+    <price>
+      LKR 12,000.00
+    </price>
+  </Toys>
+</Toysstore>
